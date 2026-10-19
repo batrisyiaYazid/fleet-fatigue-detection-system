@@ -9,6 +9,6 @@ FR5. The system shall allow admin to view the drivers's fatigue history.
 
 
 ## Non-functional requirements (how the system must PERFORM)
-1. The system shall detect the signs of fatigue level within 2 seconds.
-2. The system shall achieve a target detection accuracy of atleast 85%.
-3. The system shall display the results in simple interface.
+NFR1. The system shall detect the signs of fatigue level within 2 seconds.
+NFR2. The system shall achieve a target detection accuracy of atleast 85%.
+NFR3. The system shall display the results in simple interface.
