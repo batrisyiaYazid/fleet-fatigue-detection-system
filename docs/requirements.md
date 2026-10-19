@@ -1,9 +1,11 @@
 # Requirements
 
 ## Functional requirements (what the system must DO)
-1. The system shall detect signs of driver fatigue.
-2. The system shall send an alert when sign maximum fatigue level are detected.
-3. The system shall allow admin to view the drivers's fatigue history.
+FR1. The system shall detect signs of driver fatigue.
+FR2. The system shall send an alert when maximum level fatigue sign is detected.
+FR3. The system shall record the microsleep events.
+FR4. The system shall show the driver performance.
+FR5. The system shall allow admin to view the drivers's fatigue history.
 
 
 ## Non-functional requirements (how the system must PERFORM)
