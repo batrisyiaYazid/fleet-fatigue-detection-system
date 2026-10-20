@@ -3,7 +3,7 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+Finish the lab 3
 
 ### Sprint backlog
 | Issue | Task | Status |
@@ -17,7 +17,7 @@
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I just finished users stories,problem statement and requirements
 
 ### Retrospective
 - What went well:
