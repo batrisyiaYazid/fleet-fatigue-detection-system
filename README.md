@@ -3,12 +3,16 @@
 This problem is for solving problem of driver fatigue and micro-sleep events among heavy-driver vehicles such as bus and lorry drivers.
 
 ## Problem statement
-Many road accidents  happen nowadays because of driver fatigue  that affect the driving performance. This may lead micro-sleeping behaviour among truck drivers, which are concerning because it may occur before the collisions. Kumagai et al.(2023) analyzed truck collision dashcam footage and found micro-sleep-related behaviors before collisions. Hence, accidents involving heavy vehicles such as lorry or bus will give bigger impacts than other vehicles. As reported by Hassan(2025), Road Safety Activist Datuk Mohamad Hisham Shafe stated that lorries are heavy-duty vehicles that can cause significant impact in collision.
+- Accidents involving heavy vehicles such as lorry or bus will give bigger impacts than other vehicles.
+- Micro-sleeping behavior is concerning among truck drivers because it may occur before the collisions.
+- Depending on a single feature to detect the fatigue signs. 
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Specialized Tecnology](docs/specialized-technology-chosen.md)
+- [Technology explanation](docs/technology-expalanation.md)
 - [Sprint log](docs/sprint-log.md)
 
 ## Project structure
@@ -28,9 +32,9 @@ Many road accidents  happen nowadays because of driver fatigue  that affect the 
 
 ## Roadmap
 - [x] Problem statement written
-- [ ] Requirements numbered and linked to user stories
+- [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
