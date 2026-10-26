@@ -3,12 +3,12 @@ Technology in the field of artificial intelligence that allows machines to inter
 
 # Frameworks
 1. Flask
-2. MediaPipe FAce Landmaker - 
+2. MediaPipe Face Landmaker  
 3. PyTorch
 
 # Models Used
 1. Convolutional Neural Network (CNN)
-2. Yoo Onlyn Look Once(YOLO)
+2. You Only Look Once(YOLO)
 3. Long Short-Term Memory (LSTM)
 
 
