@@ -14,11 +14,11 @@ Technology in the field of artificial intelligence that allows machines to inter
 
 # Methods and algorithm
 1. Eye Aspect Ration
-2. Cumulative Microsleeoing Algorithm
+2. Cumulative Microsleeping Algorithm
 3. Haar Cascade Algorithm 
 
 # Fit
-- Computer vision is the most suitable technology because it can monitor and detect the drivers fatigue sign through a camera with high accuracy
+- Computer vision is the most suitable technology because it can monitor and detect the drivers fatigue sign through a camera with high accuracy in real time. 
 
 # Limitation
 - Cannot detect eyes through sunglasses
